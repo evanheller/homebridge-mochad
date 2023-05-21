@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-mochad",
+  "version": "0.3.14",
+  "description": "Mochad/X10 CM19a plugin for HomeBridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanheller/homebridge-mochad.git"
+  },
+  "keywords": [
+    "x10",
+    "mochad",
+    "homebridge",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {},
+  "author": "evanheller",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/evanheller/homebridge-mochad#readme"
+}
